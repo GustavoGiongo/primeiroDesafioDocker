@@ -7,3 +7,4 @@ COPY . .
 RUN go build -o /fullcycle
 
 CMD ["/fullcycle"]
+git
